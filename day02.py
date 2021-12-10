@@ -1,7 +1,3 @@
-
-from typing import ForwardRef
-
-
 fname = "input02.txt"
 
 # Part 1
